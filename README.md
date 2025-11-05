@@ -32,7 +32,7 @@ You can find the project documentation [here](https://alan-turing-institute.gith
   
 ## Contact
 
-For any questions, suggestions, or collaborations, you can reach the team at **Memberai4physics@turing.ac.uk**.
+For any questions, suggestions, or collaborations, you can reach the team at **ai4physics**.
 
 
 ## Contributors
