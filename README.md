@@ -29,6 +29,10 @@ You can find the project documentation [here](https://alan-turing-institute.gith
   ```bibtex
   @article{Stoffel2025, doi = {10.21105/joss.07626}, url = {https://doi.org/10.21105/joss.07626}, year = {2025}, publisher = {The Open Journal}, volume = {10}, number = {107}, pages = {7626}, author = {Martin A. Stoffel and Bryan M. Li and Kalle Westerling and Sophie Arana and Max Balmus and Eric Daub and Steve Niederer}, title = {AutoEmulate: A Python package for semi-automated emulation}, journal = {Journal of Open Source Software} }
   ```
+## 📧 Contact
+
+For any questions, suggestions, or collaborations, you can reach the team at **Memberai4physics@turing.ac.uk**.
+
 
 ## Contributors
 
